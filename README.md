@@ -4,12 +4,7 @@
 
 끝까지 파고들어 직접 만들어보며 성장하는 **백엔드 개발자**를 준비하고 있습니다.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sayoun555)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zzangsang523@gmail.com)
-<!-- 필요하면 채워주세요:
-[![Blog](https://img.shields.io/badge/Blog-FF5544?style=flat-square&logo=tistory&logoColor=white)](https://your-blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
--->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sayoun555) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zzangsang523@gmail.com)
 
 </div>
 
@@ -52,6 +47,7 @@
 | :-- | :-- | :-- |
 | **off-the-screen** | NestJS · PostgreSQL · Prisma · Playwright · React | 드라마·영화·예능 촬영지 자동 수집 & 지도 탐색 플랫폼 — 크롤러 5종 + AI 보강 파이프라인, 웹·앱 멀티플랫폼 |
 | **anchoriq-lean** | Spring Boot · Neo4j · AI | 11개 해상 데이터 소스를 온톨로지(Neo4j)로 융합해 AI가 공급망 리스크를 평가·자동 대응하는 의사결정 플랫폼 |
+| **jusig** | Spring Boot · Jena · PostgreSQL · FastAPI · AI | 한국투자증권 API 기반 AI 주식 자동매매 시스템 — 온톨로지(Jena)로 종목을 선정하고 강화학습이 매매를 실행 |
 | **job-crawler-v2** | Spring Boot · PostgreSQL · Playwright · AI | 채용 공고 자동 수집 · AI 자소서/포트폴리오 생성 · 원클릭 자동 지원 |
 | **lotto** | Spring Boot · Supabase | 23년치 회차 데이터로 통계·전략 기반 번호를 추천하고 구매 티켓을 기록·매칭하는 풀스택 서비스 |
 | **pdf2md** | Python · PyMuPDF · OCR | PDF 전자책을 오프라인에서 Markdown으로 변환 — OCR 내장(스캔본 지원), 목차·이미지 자동 추출 |
@@ -60,15 +56,19 @@
 
 **42 Gyeongsan** — Cadet
 
-<!-- GitHub Stats: 공개 서비스(github-readme-stats)가 자주 중단돼 불안정하여 일단 제외.
-     원하면 아래 주석을 풀어 사용 (가운데 정렬, 무채색 테마):
+## GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayoun555&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayoun555&layout=compact&hide_border=true&theme=graywhite&langs_count=6)
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=sayoun555&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sayoun555"
+  width="600"
+  height="300"
+/>
+</a>
 
 </div>
--->
 
 <div align="center">
 
