@@ -2,7 +2,7 @@
 
 # Sanghyun Youn
 
-끝까지 파고들어 직접 만들어보며 성장하는 **백엔드 개발자**를 준비하고 있습니다.
+끝까지 파고들어 직접 만들어보며 수치로 대화하는 **백엔드 개발자**입니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sayoun555) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zzangsang523@gmail.com)
 
