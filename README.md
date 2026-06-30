@@ -50,6 +50,7 @@
 | **jusig** | Spring Boot · Jena · PostgreSQL · FastAPI · AI | 한국투자증권 API 기반 AI 주식 자동매매 시스템 — 온톨로지(Jena)로 종목을 선정하고 강화학습이 매매를 실행 |
 | **job-crawler-v2** | Spring Boot · PostgreSQL · Playwright · AI | 채용 공고 자동 수집 · AI 자소서/포트폴리오 생성 · 원클릭 자동 지원 |
 | **lotto** | Spring Boot · Supabase | 23년치 회차 데이터로 통계·전략 기반 번호를 추천하고 구매 티켓을 기록·매칭하는 풀스택 서비스 |
+| **quiz-app** | Next.js · TypeScript | 자격증 기출·CS/인프라 문제·백엔드/임베디드 면접 학습노트를 모은 학습 웹앱 (DB 없이 정적 데이터 + localStorage) |
 | **pdf2md** | Python · PyMuPDF · OCR | PDF 전자책을 오프라인에서 Markdown으로 변환 — OCR 내장(스캔본 지원), 목차·이미지 자동 추출 |
 
 ## Education
