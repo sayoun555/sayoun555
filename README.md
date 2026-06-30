@@ -38,7 +38,7 @@
 
 | 프로젝트 | 내용 | 기술 |
 | :-- | :-- | :-- |
-| **출가씨앗** | 불교 네오 아카데미 출가 체험 프로그램 관리 플랫폼 — 참가자 등록·재참가 관리, 증서 발급, 사찰별 CMS, 통계 대시보드. 설계부터 전체 구현 담당 | Next.js · TypeScript · Supabase · PostgreSQL |
+| **출가씨앗** | 불교 네오 아카데미 출가 체험 프로그램 관리 플랫폼 — 참가자 등록·재참가 관리, 증서 발급, 사찰별 CMS, 통계 대시보드. 구현 담당 | Next.js · TypeScript · Supabase · PostgreSQL |
 | **자민경 (JAMINKYUNG)** | 자연주의 스킨케어 브랜드 공식 쇼핑몰 구축 (다국어 5개 언어 지원) | Cafe24 · Handlebars |
 
 ## Projects
