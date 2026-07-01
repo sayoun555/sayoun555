@@ -2,7 +2,7 @@
 
 # Sanghyun Youn
 
- 직접 만들고 측정하며, 수치로 증명하는 **백엔드 개발자**입니다.
+직접 만들고 측정하며, 수치로 증명하는 **백엔드 개발자**입니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sayoun555) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zzangsang523@gmail.com)
 
@@ -34,6 +34,7 @@
 **DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 ## GitHub Stats
 
 <div align="center">
