@@ -17,9 +17,8 @@
 - 🔭 **Java · Spring** 기반 백엔드 개발에 집중하고 있어요
 - 💡 기획부터 구현까지 직접 해보며 끝까지 완성하는 경험을 쌓고 있어요
 
-## Tech Stack
-
 <details>
+<summary><h2>Tech Stack</h2></summary>
 
 **Language**
 
