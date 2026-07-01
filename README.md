@@ -37,6 +37,17 @@
 
 ## GitHub Stats
 
+<details>
+<summary>View Detailed Stats</summary>
+
+<div align="center">
+
+<img src="github-metrics.svg" alt="GitHub Metrics" width="700">
+
+</div>
+
+</details>
+
 <div align="center">
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=sayoun555&utm_content=farm">
@@ -48,17 +59,6 @@
 </a>
 
 </div>
-
-<details>
-<summary>자세한 통계 보기</summary>
-
-<div align="center">
-
-<img src="github-metrics.svg" alt="GitHub Metrics" width="700">
-
-</div>
-
-</details>
 
 <div align="center">
 
