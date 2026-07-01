@@ -20,7 +20,6 @@
 ## Tech Stack
 
 <details>
-<summary>펼쳐보기 👀</summary>
 
 **Language**
 
