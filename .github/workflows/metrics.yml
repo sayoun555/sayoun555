@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  # 매일 자동 갱신 (UTC 18:00 = KST 03:00)
+  schedule: [{ cron: "0 18 * * *" }]
+  # Actions 탭에서 수동 실행
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 아래 secrets.METRICS_TOKEN 은 직접 만든 PAT을 저장소 Secret으로 등록해야 해요
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sayoun555
+          filename: github-metrics.svg
+          # 정량 지표(커밋/PR/이슈/스타) + 저장소 요약
+          base: header, repositories
+          config_timezone: Asia/Seoul

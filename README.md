@@ -17,8 +17,7 @@
 - 🔭 **Java · Spring** 기반 백엔드 개발에 집중하고 있어요
 - 💡 기획부터 구현까지 직접 해보며 끝까지 완성하는 경험을 쌓고 있어요
 
-<details>
-<summary><h2>Tech Stack</h2></summary>
+## Tech Stack
 
 **Language**
 
@@ -36,8 +35,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-</details>
-
 ## GitHub Stats
 
 <div align="center">
@@ -51,6 +48,17 @@
 </a>
 
 </div>
+
+<details>
+<summary>자세한 통계 보기</summary>
+
+<div align="center">
+
+<img src="github-metrics.svg" alt="GitHub Metrics" width="700">
+
+</div>
+
+</details>
 
 <div align="center">
 
